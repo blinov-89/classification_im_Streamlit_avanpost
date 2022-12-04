@@ -1,2 +1,9 @@
-streamlit
+streamlit~=1.15.1
 tensorflow-cpu
+numpy~=1.23.5
+keras~=2.11.0
+pandas~=1.5.2
+tensorflow~=2.11.0
+Pillow~=9.3.0
+sklearn~=0.0.post1
+scikit-learn~=1.1.3

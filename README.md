@@ -13,11 +13,16 @@ Web-приложение для классификации изображени�
 ### Для запуска приложения использовать файл: app.py и streamlit
 
 Предобученная модель CV.H5 хранится по ссылке:
+
 https://drive.google.com/file/d/1Va5C05Howd1ZiKJ0saU0jOgTO29ufGm7/view?usp=share_link
 
 Данные для обучения по ссылке:
 
 https://drive.google.com/drive/folders/12aOszakTkZJFSijLyh4Zsy59R9fudHgt?usp=share_link
+
+Тестовые данные по сслыке:
+
+https://drive.google.com/drive/folders/1sst2k_phARPCI85HUJU9GR8E5w_62C3E?usp=share_link
 
 ### Вводные данные: 
 

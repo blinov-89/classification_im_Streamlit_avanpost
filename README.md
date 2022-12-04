@@ -53,6 +53,6 @@ https://drive.google.com/drive/folders/1sst2k_phARPCI85HUJU9GR8E5w_62C3E?usp=sha
 - Загрузка из сети интернет изображений в нужном количестве нового класса
 - Распознавание класса изображений
 
+![image](https://user-images.githubusercontent.com/61515881/205485882-b95b05ae-ac14-428a-b8bc-bf94b012deb5.png)
 
-![image](https://user-images.githubusercontent.com/61515881/205485200-f6681a24-75f0-4151-be80-c83f3548d283.png)
 

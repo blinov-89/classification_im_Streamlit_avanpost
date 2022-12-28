@@ -56,5 +56,6 @@ https://drive.google.com/drive/folders/1sst2k_phARPCI85HUJU9GR8E5w_62C3E?usp=sha
 
 ![image](https://user-images.githubusercontent.com/61515881/205485900-b36652b6-6cc0-4201-b44d-04bfd437a592.png)
 
+![сертификат дообучение](https://user-images.githubusercontent.com/61515881/209778406-d8ed480a-1264-446e-994a-3510aef4f6ad.jpg)
 
 
